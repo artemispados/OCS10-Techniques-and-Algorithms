@@ -9,53 +9,54 @@ The program includes the main `string encipher(string str, int n)` and `string d
 
 Here is a sample run of the program:
 
-This is a Caesar Cipher that enciphers (and deciphers) phrases based on a given number of shifts in the alphabet
-(after Z wraps back around to A). Any character that is not a letter remains the same. Upper/lower case do as well.
+*This is a Caesar Cipher that enciphers (and deciphers) phrases based on a given number of shifts in the alphabet
+(after Z wraps back around to A). Any character that is not a letter remains the same. Upper/lower case do as well.*
 
-What would you like to do? Select the corresponding number.
+*What would you like to do? Select the corresponding number.*
 
-1. Encipher
+*1. Encipher*
 
-2. Decipher
+*2. Decipher*
 
-3. Quit
+*3. Quit*
 
-1
-Enter the phrase you would like to encipher:
+*1*
 
-Hello, how are you today?
+*Enter the phrase you would like to encipher:*
 
-Enter the alphabet shift to the right. Enter an integer between 1 and 25:
+*Hello, how are you today?*
 
-4
+*Enter the alphabet shift to the right. Enter an integer between 1 and 25:*
 
-The enciphered phrase is: Lipps, lsa evi csy xshec?
+*4*
 
-What would you like to do? Select the corresponding number.
+*The enciphered phrase is: Lipps, lsa evi csy xshec?*
 
-1. Encipher
+*What would you like to do? Select the corresponding number.*
 
-2. Decipher
+*1. Encipher*
 
-3. Quit
+*2. Decipher*
 
-2
+*3. Quit*
 
-Enter the phrase you would like to decipher. (Some inaccuracy may occur if the expression is very short):
+*2*
 
-Lipps, lsa evi csy xshec?
+*Enter the phrase you would like to decipher. (Some inaccuracy may occur if the expression is very short):*
 
-The deciphered phrase is: Hello, how are you today?
+*Lipps, lsa evi csy xshec?*
 
-What would you like to do? Select the corresponding number.
+*The deciphered phrase is: Hello, how are you today?*
 
-1. Encipher
+*What would you like to do? Select the corresponding number.*
 
-2. Decipher
+*1. Encipher*
 
-3. Quit
+*2. Decipher*
 
-3
+*3. Quit*
 
-You have quit the program.
+*3*
+
+*You have quit the program.*
 
