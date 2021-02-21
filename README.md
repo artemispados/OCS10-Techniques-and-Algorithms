@@ -9,30 +9,53 @@ The program includes the main `string encipher(string str, int n)` and `string d
 
 Here is a sample run of the program:
 
-*This is a Caesar Cipher that enciphers (and deciphers) phrases based on a given number of shifts in the alphabet
+This is a Caesar Cipher that enciphers (and deciphers) phrases based on a given number of shifts in the alphabet
 (after Z wraps back around to A). Any character that is not a letter remains the same. Upper/lower case do as well.
+
 What would you like to do? Select the corresponding number.
-*1. Encipher
-*2. Decipher
+
+1. Encipher
+
+2. Decipher
+
 3. Quit
-*1
+
+1
 Enter the phrase you would like to encipher:
+
 Hello, how are you today?
+
 Enter the alphabet shift to the right. Enter an integer between 1 and 25:
+
 4
+
 The enciphered phrase is: Lipps, lsa evi csy xshec?
+
 What would you like to do? Select the corresponding number.
+
 1. Encipher
-*2. Decipher
+
+2. Decipher
+
 3. Quit
-*2
+
+2
+
 Enter the phrase you would like to decipher. (Some inaccuracy may occur if the expression is very short):
+
 Lipps, lsa evi csy xshec?
+
 The deciphered phrase is: Hello, how are you today?
+
 What would you like to do? Select the corresponding number.
+
 1. Encipher
-*2. Decipher
+
+2. Decipher
+
 3. Quit
-*3
-You have quit the program.*
+
+3
+
+You have quit the program.
 
